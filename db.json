@@ -812,6 +812,21 @@
       "id": 3,
       "userId": 2,
       "dramaId": 2
+    },
+    {
+      "dramaId": 2,
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "dramaId": 21,
+      "userId": 4,
+      "id": 5
+    },
+    {
+      "dramaId": 19,
+      "userId": 4,
+      "id": 6
     }
   ],
   "wishlists": [
@@ -824,6 +839,21 @@
       "id": 2,
       "userId": 1,
       "dramaId": 4
+    },
+    {
+      "dramaId": 2,
+      "userId": 4,
+      "id": 3
+    },
+    {
+      "dramaId": 4,
+      "userId": 4,
+      "id": 4
+    },
+    {
+      "dramaId": 13,
+      "userId": 4,
+      "id": 5
     }
   ]
 }

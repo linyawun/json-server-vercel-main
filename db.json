@@ -41,6 +41,13 @@
       "nickName": "nick",
       "avatar": "https://i.imgur.com/9WzMNQ4.png",
       "id": 6
+    },
+    {
+      "email": "example@gmail.com",
+      "password": "$2a$10$T3LphlfeTPc6owGW1ivpAeqQo6OpjWJmW8X0Ej3Z/2rvDPjSkE6ji",
+      "nickName": "Test",
+      "avatar": "https://i.imgur.com/9WzMNQ4.png",
+      "id": 7
     }
   ],
   "dramas": [
@@ -827,6 +834,21 @@
       "dramaId": 19,
       "userId": 4,
       "id": 6
+    },
+    {
+      "dramaId": 21,
+      "userId": 7,
+      "id": 7
+    },
+    {
+      "dramaId": 16,
+      "userId": 7,
+      "id": 8
+    },
+    {
+      "dramaId": 14,
+      "userId": 7,
+      "id": 9
     }
   ],
   "wishlists": [
@@ -854,6 +876,21 @@
       "dramaId": 13,
       "userId": 4,
       "id": 5
+    },
+    {
+      "dramaId": 13,
+      "userId": 7,
+      "id": 6
+    },
+    {
+      "dramaId": 22,
+      "userId": 7,
+      "id": 7
+    },
+    {
+      "dramaId": 19,
+      "userId": 7,
+      "id": 8
     }
   ]
 }
